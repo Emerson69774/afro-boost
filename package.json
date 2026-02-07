@@ -1,6 +1,7 @@
 {
   "name": "afro-boost",
   "version": "1.0.0",
+  "description": "Afro Boost est une plateforme pour acheter et vendre des actions sociales (likes, vues, partages) sur TikTok, Facebook, Instagram et YouTube. Les freelances peuvent interagir avec de vrais comptes et monétiser leurs actions, tandis que les clients peuvent acheter des packs d'actions groupées ou individuelles.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -13,4 +14,3 @@
     "node": "18.x"
   }
 }
-
