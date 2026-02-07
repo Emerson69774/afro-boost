@@ -99,4 +99,4 @@ app.post("/order", (req, res) => {
 app.listen(3000, () => {
   console.log("Afro Boost lancé sur http://localhost:3000");
   const PORT = process.env.PORT || 3000;
-app.listen(PORT,()=>console.log("Afro Boost lancé sur le port "+PORT));
+app.listen(PORT,()=>console.log("Afro Boost lancé sur le port "+PORT});
